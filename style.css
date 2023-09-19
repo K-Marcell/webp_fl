@@ -1,0 +1,13 @@
+table.matrix tr td
+{
+width            : 8px   ;
+height           : 8px   ;
+}
+
+div.pont
+{
+width            : 8px   ;
+height           : 8px   ;
+border-radius    : 50%   ;
+background-color : #66A  ;
+}
